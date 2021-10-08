@@ -1,0 +1,47 @@
+.description span{
+    display: inline-block;
+    padding: 3rem;
+}
+.description{
+    height: 8rem;
+    width: 18rem;
+}
+.desc{
+    height: 60rem;
+    width: 100%;
+    display: flex;
+    /* background-color: tomato; */
+    /* flex-wrap: wrap; */
+}
+.course_description {
+    height: auto;
+    width: 60%;
+    margin: 2rem;
+}
+.ratings{
+    /* background-color: aqua; */
+    display: flex;
+}
+
+
+.latest_course{
+    height: auto;
+    width: 30%;
+    margin: 2.5rem 2rem;
+}
+.latest_course p{
+    padding: 0.5rem;
+    margin: 0rem;
+}
+.share p{
+    display: inline-block;
+}
+.share img{
+    padding: 0.5rem 0.2rem;
+}
+.bg-YOU_PICK_A_NAME{
+    background-color: #123445!important;
+}
+.pb{
+    background-color: 'red'!important;
+}

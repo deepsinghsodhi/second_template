@@ -1,0 +1,170 @@
+.grid_box{
+    margin-right: 1rem;
+    margin-left: 15rem;
+    width: 100%;
+    
+}
+
+
+.rc{
+    width: 15.375rem;
+    height: 13.938rem;
+}
+.cart_img_text1{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    }
+.cart_img_text2{
+    height: 18px;
+    font-size: 13px;
+    width: 85px;
+    left: 24px;
+    top: 297px;
+    border-radius: nullpx;
+    font-family: sans-serif;
+    color: #000000
+    ;
+}
+.para_text{
+    font-family: sans-serif;
+    height: 66px;
+    width: 70%;
+    left: 24px;
+    top: 371px;
+    border-radius: nullpx;
+    color: #6E798C;
+
+}
+.last_col{
+    margin-top: 1.5rem;
+    float: left;
+    margin-left: 5rem;
+}
+
+.last_para_text{
+    font-family: sans-serif;
+    height: 66px;
+  width: 70%;
+    left: 24px;
+    top: 371px;
+    border-radius: nullpx;
+    color: #6E798C;
+
+}
+.last_para_text_hr{
+    width: 50%;
+    margin-left: 0rem;
+    margin-top: 1rem;
+   
+}
+.col_grey{
+    margin-top: 1.5rem;
+    margin-left: 0rem;
+
+}
+.footer_section{
+    margin-top: 3.75rem;
+}
+.rupee_text1{
+    color: #1A5F02;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    width: 3.813rem;
+    height: 1.125rem;
+   
+  
+text-decoration: line-through;
+}
+
+.rupee_text2{
+    color: #1A5F02;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    width: 2.938rem;
+    height: 1.125rem;
+    font-family: D sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 17px;
+letter-spacing: 0.02em;
+text-align: right;
+
+   
+  
+}
+.rupee_img{
+    width: 0.75rem;
+    height: 1.063rem;
+   
+}
+.rupees_block_last{
+    margin-top: 5rem;
+}
+.grid_box4{
+    border-radius: 5px;
+}
+.course,.rating{
+    font-family:  sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+height: 23px;
+width: 111px;
+margin-top: 2.688rem;
+
+border-radius: nullpx;
+
+}
+input{
+    color: #6A2F85;
+}
+.course_text{
+    color: #6A2F85;
+}
+.btn_img{
+        position: relative;
+       
+}
+.btn{
+    width: 7.375rem;
+    height: 2.063rem;
+}
+.btn_img .btn{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .btn_img_last .btn2{
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+  }
